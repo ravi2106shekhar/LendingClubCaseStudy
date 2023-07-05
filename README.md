@@ -16,7 +16,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion  shared in PDF file
+- Loans given at interest rate less than Mean interest rate (12.5%) decreases defaulter rate to 9.34%  ( 
+  Average defaulter rate is 14.32%)
+- House Loan , Home improvements , Wedding loan and educational loans are safest when loan at interest rate <m  mean interest rate (12.5) is provided to customers.  
+- Loans given at interest rate higher (more than 16%) increases defaulter rate to 28.8%  (Average defaulter  
+  rate is 14.32%)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
